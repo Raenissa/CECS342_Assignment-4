@@ -28,7 +28,9 @@ namespace test
 
         //public static XDocument CreateReport(IEnumerable<string> files)
         //{
-
+            //System.IO.FileInfo
+            //FormatByteSize()
+            //System.Xml.Linq.XElement
         //}
 
         static void Main(string[] args)
